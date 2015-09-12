@@ -1,0 +1,8 @@
+public class llanta
+{
+	string marca;
+	string color;
+	int diametro;
+	string material;
+	int grosor;
+}
